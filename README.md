@@ -18,7 +18,7 @@
    $: repo sync
  
  #5- Setup environment and build an image
-   $: export MACHINE=wandboard-dual
+   $: export MACHINE=wandboard-solo
    $: . ./setup-environment build
    $: bitbake core-image-minimal
 
