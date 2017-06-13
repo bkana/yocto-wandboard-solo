@@ -1,4 +1,3 @@
-# yocto-wandboard-solo
 
 # step to bluid Wanboard Image:
  #1- Download and install Google's repo
