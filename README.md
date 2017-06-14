@@ -26,4 +26,10 @@
 make: *** [all] Error 2
 ERROR: oe_runmake failed
 
+The problem is here:
+"*** Could not find autoconf 2.13. Stop."
+
+Please install all build dependencies for Ubuntu as listed here:
+https://developer.mozilla.org/en-US/docs/Developer_Guide/Build_Instructions/Linux_Prerequisites
+
 
