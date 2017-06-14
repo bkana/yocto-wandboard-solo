@@ -32,4 +32,7 @@ The problem is here:
 Please install all build dependencies for Ubuntu as listed here:
 https://developer.mozilla.org/en-US/docs/Developer_Guide/Build_Instructions/Linux_Prerequisites
 
+#new ERROR
+ERROR: oe_runconf failed
+
 
